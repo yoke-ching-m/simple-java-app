@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("BoringDate");
+        System.out.println("today is wednesday");
     }
 
     public String getMessage() {
